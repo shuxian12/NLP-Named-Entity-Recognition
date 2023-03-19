@@ -1,0 +1,11 @@
+gensim==3.6.0
+glob2==0.7
+nltk==3.7
+numpy==1.21.6
+pip-tools==6.2.0
+pytorch-crf==0.7.2
+regex==2022.6.2
+sklearn-pandas==1.8.0
+tweet-preprocessor==0.6.0
+urllib3==1.24.3
+torch==1.12.1
